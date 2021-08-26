@@ -34,7 +34,7 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/Endare/react-native-datalogic-scanner",
+  "repository": "https://github.com/huntfalow/endare",
   "author": "Endare <info@endare.com> (https://github.com/Endare)",
   "license": "MIT",
   "bugs": {
